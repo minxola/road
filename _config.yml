@@ -3,8 +3,8 @@ description: Long Form Jekyll theme built with SASS / COMPASS / SUSY
 
 url: https://dev.texellabs.com/road/
 baseurl: ""
-paginate_path: "/page:num/"
-permalink: /:title/
+paginate_path: "blog/page:num/"
+permalink: blog/:title/
 
 markdown: kramdown
 highlighter: rouge
