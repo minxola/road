@@ -896,7 +896,10 @@ POST NAV STYLING
 .postNav {
   border-top: 1px solid #e6e6e6;
   border-bottom: 1px solid #e6e6e6;
-  overflow: hidden; }
+  overflow: hidden;
+  max-width:75%;
+  margin-left:auto;
+  margin-right:auto;}
   .postNav .prev, .postNav .next {
     display: block;
     width: 100%;
