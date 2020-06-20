@@ -3,7 +3,7 @@ description: Long Form Jekyll theme built with SASS / COMPASS / SUSY
 
 url: https://minxola.github.io/road/
 baseurl: "/road"
-paginate_path: "/road/blog/page:num/"
+paginate_path: "/blog/page:num/"
 permalink: /road/blog/:title/
 
 markdown: kramdown
