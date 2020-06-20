@@ -13,11 +13,11 @@ paginate: 5
 
 navigation:
   - title: Home
-    url: /road/index.html
+    url: /index.html
   - title: About
-    url: /road/about
+    url: /about
   - title: Contact
-    url: /road/contact
+    url: /contact
 
 social:
   github: minxola
