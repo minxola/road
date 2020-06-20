@@ -2,7 +2,7 @@ title: Long Haul
 description: Long Form Jekyll theme built with SASS / COMPASS / SUSY
 
 url: https://minxola.github.io/road/
-baseurl: "/road"
+baseurl: ""
 paginate_path: "blog/page:num/"
 permalink: blog/:title/
 
@@ -13,11 +13,11 @@ paginate: 5
 
 navigation:
   - title: Home
-    url: /index.html
+    url: /road/index.html
   - title: About
-    url: /about
+    url: /road/about
   - title: Contact
-    url: /contact
+    url: /road/contact
 
 social:
   github: minxola
