@@ -1,5 +1,5 @@
-title: Long Haul
-description: Long Form Jekyll theme built with SASS / COMPASS / SUSY
+title: Redgar
+description: Memories of the road
 
 url: https://minxola.github.io/road/
 baseurl: "/road"
@@ -25,4 +25,4 @@ social:
   facebook: texellabs
   email: texellabs@gmail.com
 
-google_analytics: "UA-58263416-1"
+google_analytics: "UA-74063173-4"
