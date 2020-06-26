@@ -1,5 +1,5 @@
 ---
-layout: onepage
+layout: post
 title:  "How I Knew You"
 date:   2020-06-26
 ---
